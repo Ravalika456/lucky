@@ -1,0 +1,2 @@
+# lucky
+java program
